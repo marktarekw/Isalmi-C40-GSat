@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <!--Developer 1 finished Feature 1 -->
     <color name="color_black">#000000</color>
+    <!-- Developer 2 Finished Task 2 -->
+    <color name="color_white">#FFFFFF</color>
 </resources>
